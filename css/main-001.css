@@ -1,0 +1,20 @@
+.g1,.g2,.g3,.g4,.g5,.g6,.g7,.g8,.g9,.g10,.g11,.g12{
+	
+}
+.opa-70 {
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+  /* IE 5-7 */
+  filter: alpha(opacity=70);
+  /* Netscape */
+  -moz-opacity: 0.7;
+  /* Safari 1.x */
+  -khtml-opacity: 0.7;
+  /* Good browsers */
+  opacity: 0.7;
+}
+
+/*
+CUSTOM SLIDE
+ */
+#sld_txt ul.flex-direction-nav, #sld_txt2 ul.flex-direction-nav {display: none;}

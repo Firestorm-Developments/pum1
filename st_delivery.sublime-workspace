@@ -1,0 +1,922 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"fi",
+				"font-size"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"ca",
+				"carrito_activo_minificado"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"l",
+				"listado_productos"
+			],
+			[
+				"o",
+				"oProducto"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"loadin",
+				"loading-3-rect"
+			],
+			[
+				"co",
+				"consumer"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"da",
+				"data_nice"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"c",
+				"caba"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"Pa",
+				"Pastas"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"m",
+				"min-width"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"li",
+				"list-style-position"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"re",
+				"render_breadcrumb"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"r",
+				"render_tree"
+			],
+			[
+				"g",
+				"get_tree"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"im",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2112,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 3187,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 3542,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main-carrito.js",
+			"settings":
+			{
+				"buffer_size": 4241,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/proyectos/delivery/js/micro-template.min.js",
+		"/C/wamp/www/proyectos/delivery/js/handlebars-1.0.min.js",
+		"/C/wamp/www/proyectos/delivery/js/main-data.js",
+		"/C/wamp/www/proyectos/delivery/css/grid.css",
+		"/C/wamp/www/proyectos/delivery/css/main.css",
+		"/C/wamp/www/proyectos/delivery/css/flexslider.css",
+		"/C/wamp/www/proyectos/delivery/js/main-data.min.js",
+		"/C/wamp/www/proyectos/adamas/site/css/color.css",
+		"/C/wamp/www/proyectos/adamas/site/index.html",
+		"/C/wamp/www/proyectos/adamas/site/css/skeleton.css",
+		"/C/wamp/www/proyectos/adamas/site/css/base.css",
+		"/C/wamp/www/proyectos/adamas/site/css/main.css",
+		"/C/wamp/www/proyectos/adamas/site/js/custom.js",
+		"/C/wamp/www/proyectos/adamas/site/js/main-fm.js",
+		"/C/wamp/www/proyectos/adamas/site/js/video.min.js",
+		"/C/wamp/www/proyectos/delivery/js/main-carrito.js",
+		"/C/wamp/www/proyectos/delivery/js/main.js",
+		"/C/wamp/www/proyectos/delivery/index.html",
+		"/C/wamp/www/escaladarustik/application/cache/routes.php",
+		"/C/wamp/www/escaladarustik/application/cache/routes_003.php",
+		"/C/Users/merkurio/Downloads/sunrise-master/sunrise-master/index.html",
+		"/C/wamp/www/proyectos/CodeIgniter-Bootstrap-master/application/models/unit_model.php",
+		"/C/wamp/www/proyectos/CodeIgniter-Bootstrap-master/README.md",
+		"/C/wamp/www/proyectos/CodeIgniter-Bootstrap-master/application/views/templates/login.php",
+		"/C/wamp/www/proyectos/delivery/js/plugins.config.js",
+		"/C/wamp/www/proyectos/delivery/js/jquery.cookie.js",
+		"/C/wamp/www/proyectos/delivery/js/jquery.cookie.min.js",
+		"/C/wamp/www/plopi/index.html",
+		"/C/wamp/www/plopi/js/custom.js",
+		"/C/wamp/www/plopi/proyectos/psc/application/config/social_networks.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/controllers/auth2.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/controllers/auth.php",
+		"/C/wamp/www/plopi/proyectos/psc/index-prod.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/libraries/philsturgeon_oauth/OAuth.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/libraries/philsturgeon_oauth/Provider/Twitter.php",
+		"/C/wamp/www/escaladarustik/application/controllers/auth.php",
+		"/C/wamp/www/escaladarustik/application/controllers/home.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/config/autoload.php",
+		"/C/wamp/www/escaladarustik/application/config/autoload.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/config/facebook.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/controllers/oauth.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/controllers/oauth2.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/views/welcome_message.php",
+		"/C/wamp/www/plopi/proyectos/psc/application/config/config.php",
+		"/C/wamp/www/plopi/proyectos/psc/index.php",
+		"/C/wamp/www/escaladarustik/application/config/smtp.php",
+		"/C/wamp/www/escaladarustik/application/config/assets.php",
+		"/C/wamp/www/escaladarustik/application/config/database.php",
+		"/C/wamp/www/escaladarustik/application/config/config.php",
+		"/C/wamp/www/plopi/proyectos/psc/_src/codeigniter-oauth2-master/config/autoload.php",
+		"/C/wamp/www/proyectos/canita/index.html",
+		"/C/wamp/www/plopi/proyectos/psc/application/libraries/index.html",
+		"/C/wamp/www/plopi/proyectos/psc/.htaccess",
+		"/C/wamp/www/escaladarustik/application/controllers/entradas.php",
+		"/C/wamp/www/proyectos/particle/js/controller.js",
+		"/C/wamp/www/proyectos/particle/css/main.css",
+		"/C/wamp/www/proyectos/particle/index.htm",
+		"/C/Users/merkurio/Desktop/DxDiag.txt",
+		"/C/wamp/www/proyectos/particle/js/particle.js",
+		"/C/wamp/www/proyectos/particle/css/jquery-ui.css",
+		"/C/wamp/www/proyectos/particle/css/jquery-ui-1.10.3.custom.min.css",
+		"/C/wamp/www/proyectos/canita/_src/particle/controller.js",
+		"/C/wamp/www/proyectos/canita/_src/particle/particle.js",
+		"/C/wamp/www/proyectos/canita/js/explosion3.js",
+		"/C/wamp/www/proyectos/canita/css/main3.css",
+		"/C/wamp/www/proyectos/canita/_src/particle/index.htm",
+		"/C/wamp/www/proyectos/canita/index3.html",
+		"/C/wamp/www/proyectos/canita/js/explosion.js",
+		"/C/wamp/www/proyectos/canita/css/main.css",
+		"/C/wamp/www/proyectos/canita/js/explosion2.js",
+		"/C/wamp/www/proyectos/canita2/js/explosion2.js",
+		"/C/wamp/www/proyectos/canita2/css/main2.css",
+		"/C/wamp/www/proyectos/canita2/index2.html",
+		"/C/wamp/www/proyectos/canita2/index.html",
+		"/C/wamp/www/proyectos/canita2/css/main.css",
+		"/C/wamp/www/proyectos/canita2/js/explosion.js",
+		"/C/wamp/www/proyectos/canita/js/jquery.fireworks.js",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/emmet-sublime/README.md",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/sublime-jsdocs/README.md",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/ColorPicker/README.md",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/readme.md",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/wamp/www/proyectos/canita/js/jquery.fireworks.min-master.js",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/JsMinifier/README.md",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/JsFormat-master/README.md",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/js-beautify-sublime-master/README.md",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/User/JavascriptBeautify.sublime-settings",
+		"/C/Users/merkurio/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/C/wamp/www/proyectos/canita/js/jquery.fireworks.min.js",
+		"/C/Users/merkurio/Downloads/Fireworks-master/Fireworks-master/index.html",
+		"/C/Users/merkurio/Downloads/Fireworks-master/Fireworks-master/README.md",
+		"/C/Users/merkurio/Downloads/Battlefield 3.txt",
+		"/C/wamp/www/escaladarustik/application/views/footer_v2.php",
+		"/C/wamp/www/escaladarustik/application/views/estilos_custom.php",
+		"/C/wamp/www/escaladarustik/application/views/layout_v2.php",
+		"/C/wamp/www/escaladarustik/application/views/header_v2.php",
+		"/C/wamp/www/escaladarustik/application/views/main_menu.php",
+		"/C/wamp/www/plopi/js/jquery.preloadify.min.js",
+		"/C/wamp/www/plopi/procesar.php",
+		"/C/wamp/www/plopi/js/jquery.contact.js",
+		"/C/wamp/www/plopi/sendgrid-php/Test/SendGrid_loaderTest.php",
+		"/C/wamp/www/proyectos/plopi/sympathique/index.html",
+		"/C/wamp/www/proyectos/plopi/sympathique/js/jquery.contact.js",
+		"/C/wamp/www/proyectos/plopi/sympathique/js/custom.js",
+		"/C/wamp/www/proyectos/plopi/sympathique/procesar.php",
+		"/C/Users/merkurio/Downloads/sendgrid-php-master/sendgrid-php-master/SendGrid_loader.php",
+		"/C/wamp/www/escaladarustik/_src/muros.html",
+		"/C/Users/merkurio/Downloads/ORIGINALES_mapa/ORIGINALES/routes.php",
+		"/C/wamp/www/proyectos/plopi/sympathique/js/jquery.prettyPhoto.js",
+		"/C/wamp/www/proyectos/plopi/sympathique/portfolio-single.html",
+		"/C/wamp/www/proyectos/plopi/sympathique/index-1.html",
+		"/C/wamp/www/proyectos/plopi/sympathique/css/responsive.css",
+		"/C/wamp/www/proyectos/plopi/sympathique/style.css",
+		"/C/wamp/www/proyectos/plopi/sympathique/template-changer.css",
+		"/C/wamp/www/proyectos/plopi/sympathique/min.js",
+		"/C/wamp/www/proyectos/plopi/sympathique/color-schemes/red/red.css",
+		"/C/wamp/www/proyectos/plopi/sympathique/_src/Diseño y Desarrollo Web a medida",
+		"/C/wamp/www/proyectos/plopi/sympathique/services.html",
+		"/C/wamp/www/proyectos/plopi/sympathique/tabs-and-toggles.html",
+		"/C/wamp/www/proyectos/plopi/synergy/html/home/home_layout_2.html",
+		"/C/wamp/www/proyectos/plopi/synergy/html/home/home_layout_1.html",
+		"/C/wamp/www/proyectos/plopi/synergy/html/portfolio/portfolio.html",
+		"/C/wamp/www/proyectos/plopi/synergy/index.html",
+		"/C/wamp/www/proyectos/plopi/synergy/js/mc.modules.animation (2).js",
+		"/C/wamp/www/proyectos/plopi/synergy/js/mc.modules.animation.js",
+		"/C/wamp/www/proyectos/plopi/mc.modules.animation.js",
+		"/C/wamp/www/escaladarustik/application/libraries/facebook/base_facebook.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\plopi",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"?v=1.0",
+			"map_initialize",
+			"bgVideopath",
+			"$.cookie",
+			"listado_productos",
+			"carrito_previo",
+			"map",
+			"config",
+			"map",
+			"image",
+			"eg",
+			"randomFloat",
+			"Xteam",
+			"data_plain",
+			".\n",
+			"map_canvas",
+			"map_initialize",
+			"map",
+			"adamas",
+			"dedicated to developing",
+			"estudio",
+			"nivo-preloader",
+			"&",
+			"ol",
+			"slides",
+			"slides_container",
+			"slides",
+			"red",
+			"style",
+			"red",
+			"&",
+			"tabs",
+			"footer-logo",
+			"logo",
+			"logo a",
+			"logo",
+			"hide",
+			"h4",
+			"&",
+			"<section",
+			"theme-changer-wrap",
+			"Giuseppe",
+			"#portfolio",
+			"audio-player",
+			"</b>:",
+			"span",
+			"</li>",
+			"<li>",
+			"</li>",
+			"<li>",
+			"../../../../../common/",
+			"\"mostrar\":\"texto\"",
+			", \"stock\":\"1000\",",
+			"aboutus",
+			"playList",
+			"musicLoad",
+			"playList",
+			"!home",
+			"!portfolio",
+			"#!portfolio",
+			"#!aboutus",
+			"#!home",
+			"\"rangos\":[{\"nombre\":\"1\",\"valor\":\"1\"},{\"nombre\":\"2\",\"valor\":\"2\"},{\"nombre\":\"3\",\"valor\":\"3\"},{\"nombre\":\"4\",\"valor\":\"4\"},{\"nombre\":\"5\",\"valor\":\"5\"},{\"nombre\":\"6\",\"valor\":\"6\"},{\"nombre\":\"7\",\"valor\":\"7\"},{\"nombre\":\"8\",\"valor\":\"8\"},{\"nombre\":\"9\",\"valor\":\"9\"}]",
+			", \"stock\":\"1000\"",
+			", \"img_path\":",
+			"01.jpg",
+			"93",
+			"5",
+			"carta_full",
+			"items",
+			"seccion_activa",
+			"browser.msie",
+			"$.browser.msie && !supports_onhashchange && (function(){",
+			"},",
+			"map",
+			"b",
+			"a",
+			"array",
+			"Id",
+			"Name",
+			"Parent",
+			"MemoryStore",
+			"div",
+			"content",
+			"controlNav",
+			"flex-direction-nav",
+			"DROP TABLE",
+			"demo version",
+			" class=\"dnone\"",
+			"images",
+			"Your bones don't break",
+			"Your bones don't break, mine do",
+			"Television",
+			"git",
+			"	#",
+			"min",
+			"}\n",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"?v=1.1",
+			"Plopi",
+			"&amp;",
+			"ul",
+			"&amp;",
+			"p",
+			"&amp;",
+			"</b>",
+			":",
+			"p",
+			"</span></li>",
+			"<li><span>",
+			"</p></li>",
+			"<li><p>",
+			"common/",
+			"\"mostrar\":\"imagen\"",
+			", \"mostrar\":\"texto\", \"stock\":\"1000\",",
+			"\"rangos\":[{\"nombre\":\"1 porción\",\"valor\":\"1\"},{\"nombre\":\"2 porciones\",\"valor\":\"2\"},{\"nombre\":\"3 porciones\",\"valor\":\"3\"},{\"nombre\":\"4 porciones\",\"valor\":\"4\"},{\"nombre\":\"5 porciones\",\"valor\":\"5\"},{\"nombre\":\"6 porciones\",\"valor\":\"6\"},{\"nombre\":\"7 porciones\",\"valor\":\"7\"},{\"nombre\":\"8 porciones\",\"valor\":\"8\"},{\"nombre\":\"9 porciones\",\"valor\":\"9\"}]",
+			", \"rangos\":[{\"nombre\":\"1\",\"valor\":\"1\"},{\"nombre\":\"2\",\"valor\":\"2\"},{\"nombre\":\"3\",\"valor\":\"3\"},{\"nombre\":\"4\",\"valor\":\"4\"},{\"nombre\":\"5\",\"valor\":\"5\"},{\"nombre\":\"6\",\"valor\":\"6\"},{\"nombre\":\"7\",\"valor\":\"7\"},{\"nombre\":\"8\",\"valor\":\"8\"},{\"nombre\":\"9\",\"valor\":\"9\"}], \"stock\":\"1000\"",
+			", \"rangos\":\"1*1|2*2|3*3|4*4|5*5|6*6|7*7|8*8|9*9\", \"stock\":\"1000\"",
+			", \"unidad\":\"porción\", \"stock\":\"1000\"",
+			", \"stock\":\"1000\", \"img_path\":",
+			"postres_320x240.jpg",
+			"ensaladas_320x240.jpg",
+			"bebidas_320x240.jpg",
+			"empanadas_320x240.jpg",
+			"pizzas_320x240.jpg",
+			"minutas_320x240.jpg",
+			"salsas_320x240.jpg",
+			"pastas_320x240.jpg",
+			"92",
+			"24",
+			"23",
+			"carta_activa",
+			", \"img_path\": \"images/demo/01.jpg\"},",
+			"tree",
+			"parent_id",
+			"data_array",
+			"id",
+			"name",
+			"parent_id",
+			"if exists drop table",
+			"",
+			"images/demo",
+			"Bones don't break",
+			"Your bones don't break",
+			"1 Television"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1738,
+								1738
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 3187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1015,
+								1015
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 3542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3199,
+								3199
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/main-carrito.js",
+					"settings":
+					{
+						"buffer_size": 4241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3913,
+								3913
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true
+}
